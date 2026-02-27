@@ -1,4 +1,5 @@
 # EDA
 EDA Case Study - NYU
-.ipynb file with your code work:
-https://colab.research.google.com/drive/1ChwkXkJ80bcI_0nXB5LEXyKVewNNV33i?usp=sharing
+
+Google Slides:
+https://docs.google.com/presentation/d/1pE_DLT0JoUDAVQKnmN5py9i5JSc22N-GF0bNIx3PARM/edit?usp=sharing 
